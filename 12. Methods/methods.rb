@@ -1,19 +1,16 @@
-countries = {
-  'Sri Lanka' => 'PA',
-  'New York' => 'NY',
-  'India' => 'IN',
-  'Any Where' => 'AW'
-}
+def add_number(num1, num2 = 10)
+  num1 + num2
+end
 
-puts countries
-puts countries['Sri Lanka']
+puts add_number(10)
+puts add_number(10, 30)
 
-countries = {
-  1 => 'PA',
-  'New York' => 'NY',
-  true => 'IN',
-  'Any Where' => 'AW'
-}
+# ----------------------
 
-puts countries
-puts countries[true]
+def cube(num)
+  return num * num * num, 70
+end
+
+puts cube(10)
+puts cube(10)[0]
+puts cube(10)[1]
