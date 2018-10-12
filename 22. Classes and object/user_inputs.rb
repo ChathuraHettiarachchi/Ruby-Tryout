@@ -1,11 +1,10 @@
-begin
-  # puts bad_variable
-  num = 10/0
-rescue ZeroDivisionError
-  puts 'ZeroDivisionError'
-rescue
-  puts 'All other errors'
+class Book
+  attr_accessor :title, :author, :pages
 end
 
-# or raise an exception
-# raise 'Made Up Exception'
+book_one = Book.new
+book_one.title = 'Saman'
+book_one.author = 'Chathura'
+book_one.pages = 103
+
+puts book_one.title
