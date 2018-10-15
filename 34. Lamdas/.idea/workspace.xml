@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d65630bb-d432-497f-9f18-3cee15dd8ae9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/each_try.rb" beforeDir="false" afterPath="$PROJECT_DIR$/each_try.rb" afterDir="false" />
+    <list default="true" id="dc3bbda1-a87e-4f63-a549-3e7f091b093d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../33. Procs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33. Procs/porcs.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamdas.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. .each more/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../32. .each more/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. .each more/each_try.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../32. .each more/each_try.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,10 +16,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/32___each_more@each_try.rcov" NAME="each_try Coverage Results" MODIFIED="1539583314016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="32. .each more" />
+    <SUITE FILE_PATH="coverage/34__Lamdas@lamdas.rcov" NAME="lamdas Coverage Results" MODIFIED="1539587121347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="34. Lamdas" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1087295536">
+    <session id="1132974190">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -34,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rb" value="231" />
+          <entry key="rb" value="121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="231" />
+          <entry key="Ruby" value="121" />
         </counts>
       </usages-collector>
     </session>
@@ -47,10 +52,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/each_try.rb">
+        <entry file="file://$PROJECT_DIR$/lamdas.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="161">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -63,7 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/each_try.rb" />
+        <option value="$PROJECT_DIR$/Lamdas.rb" />
+        <option value="$PROJECT_DIR$/lamdas.rb" />
       </list>
     </option>
   </component>
@@ -77,9 +83,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,8 +93,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="32. .each more" type="b2602c69:ProjectViewProjectNode" />
-              <item name="32. .each more" type="462c0819:PsiDirectoryNode" />
+              <item name="34. Lamdas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="34. Lamdas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,8 +121,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="each_try" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="32. .each more" />
+    <configuration name="lamdas" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="34. Lamdas" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -131,13 +135,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/each_try.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lamdas.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.each_try" />
+        <item itemvalue="Ruby.lamdas" />
       </list>
     </recent_temporary>
   </component>
@@ -147,17 +151,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d65630bb-d432-497f-9f18-3cee15dd8ae9" name="Default Changelist" comment="" />
-      <created>1539582658349</created>
+      <changelist id="dc3bbda1-a87e-4f63-a549-3e7f091b093d" name="Default Changelist" comment="" />
+      <created>1539586826012</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539582658349</updated>
-      <workItem from="1539582659615" duration="772000" />
+      <updated>1539586826012</updated>
+      <workItem from="1539586827323" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="772000" />
+    <option name="totallyTimeSpent" value="349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -172,7 +176,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -191,10 +195,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/each_try.rb">
+    <entry file="file://$PROJECT_DIR$/lamdas.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="161">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
